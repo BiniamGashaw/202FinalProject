@@ -1,0 +1,7 @@
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/meatMob.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/edit_cache.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/rebuild_cache.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/list_install_components.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/install.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/install/local.dir
+/Users/biniam/cs202/projects/cs202_sp23_pa2-1204-Gashaw-Biniam/main/CMakeFiles/install/strip.dir
